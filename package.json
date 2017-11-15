@@ -1,0 +1,30 @@
+{
+  "name": "nodefolio",
+  "version": "1.0.0",
+  "description": "Inder singh ortfolio site",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inderorg/nodefolio.git"
+  },
+  "keywords": [
+    "Inder singh patliya",
+    "patliya",
+    "Inder Patliya",
+    "UX/UT full stack developer"
+  ],
+  "author": "Inder Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inderorg/nodefolio/issues"
+  },
+  "homepage": "https://github.com/inderorg/nodefolio#readme"
+}
